@@ -1,0 +1,9 @@
+
+{
+  "name": "SiteBot AI - Intelligent Web Assistant Creator",
+  "description": "A comprehensive platform to build, configure, and deploy AI-powered customer service bots for any website using natural language and PDF knowledge bases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
